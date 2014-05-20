@@ -1,5 +1,5 @@
 express
 =======
 
-it's simple web application using node.js express jade and mondodb
+it's simple web application using node.js express jade and mongodb
 
